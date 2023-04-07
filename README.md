@@ -1,0 +1,17 @@
+# PJAText2
+"-f |--file: enables you to write file directory in the next argument. ex.-f file.txt\n"
+                 "Following arguments have to be written after (-f file.txt):\n\n"
+                 "-n |--newlines: shows number of lines\n"
+                 "-d |--digits: shows how many digits are in the file\n"
+                 "-dd|--numbers: shows how many numbers are in the file\n"
+                 "-c |--chars: shows number of characters\n"
+                 "-w |--words: shows number of words\n"
+                 "-s |--sorted: shows every word in an alphabetical order\n"
+                 "-rs|--reverse-sorted: shows every word in an opposite alphabetical order (z-a)\n"
+                 "-m |--most-common: shows most common word and number of times it was used\n"
+                 "-l |--by-length: modifies [-s] or [-rs] command so that program shows every word sorted by word length\n"
+                 "-a |--anagrams: after that write any words. Program will show anagrams for those words\n"
+                 "-p |--palindromes: after that write any words. Program will show all palindromes from file which match those written by you\n"
+                 "-o |--output: after that write .txt file directory (existed or not). Output is saved in txt file\n"
+                 "-i |--input: after that write .txt file directory. Program executes commands given in this file\n"
+                 "(no flag)/--help : shows this info";
