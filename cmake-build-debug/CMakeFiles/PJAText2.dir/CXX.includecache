@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Programowanie/CLionProjects/PJAText2/file_operations.h
+fstream
+-
+algorithm
+-
+sstream
+-
+
+C:/Programowanie/CLionProjects/PJAText2/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+file_operations.h
+C:/Programowanie/CLionProjects/PJAText2/file_operations.h
+

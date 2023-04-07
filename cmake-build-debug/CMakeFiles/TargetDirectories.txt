@@ -1,0 +1,3 @@
+C:/Programowanie/CLionProjects/PJAText2/cmake-build-debug/CMakeFiles/PJAText2.dir
+C:/Programowanie/CLionProjects/PJAText2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Programowanie/CLionProjects/PJAText2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
